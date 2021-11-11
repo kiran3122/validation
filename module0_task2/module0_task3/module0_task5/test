@@ -1,0 +1,9 @@
+➜ ls && ./5-file && ls -l && cat -e \\*
+0-mac_and_cheese 5-file Makefile
+total 20
+-rwxrw-r-- 1 devops devops 79 Jan 20 06:24 0-mac_and_cheese
+-rwxrw-r-- 1 devops devops 90 Jan 20 06:40 5-file
+-rw-rw-r-- 1 devops devops 14 Jan 20 06:38 Makefile
+-rw-rw-r-- 1 devops devops 17 Jan 20 06:40 \*\\'"DevOps"\'\\*$\?\*\*\*\*\*:)
+Hello DevOps$
+➜ 
